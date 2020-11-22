@@ -4,8 +4,8 @@ Chicken Makhani is one of my favorite Indian dishes. It is a full flavored dish 
 
 # Ingredients
 
-https://github.com/DeepikaMSwamy/Chicken-Makhani/blob/main/ingredients.md
+(https://github.com/DeepikaMSwamy/Chicken-Makhani/blob/main/ingredients.md)
 
 # Recipe
 
-https://github.com/DeepikaMSwamy/Chicken-Makhani/blob/main/Recipe.md
+(https://github.com/DeepikaMSwamy/Chicken-Makhani/blob/main/Recipe.md)
